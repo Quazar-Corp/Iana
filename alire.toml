@@ -1,0 +1,15 @@
+name = "iana"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Tiago Onofre Araujo"]
+maintainers = ["Tiago Onofre Araujo <taraujonofre@gmail.com>"]
+maintainers-logins = ["OnofreTZK"]
+
+executables = ["iana"]
+[[depends-on]]
+gnatcoll = "^23.0.0"
+[[depends-on]]
+parser = "*"
+[[depends-on]]
+email_info = "*"
