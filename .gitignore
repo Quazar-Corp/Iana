@@ -2,3 +2,7 @@
 /bin/
 /alire/
 /config/
+
+config.json
+iana.json
+.env

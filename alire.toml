@@ -13,3 +13,7 @@ gnatcoll = "^23.0.0"
 parser = "*"
 [[depends-on]]
 email_info = "*"
+[[depends-on]]
+aws = "^23.0.0"
+[[depends-on]]
+utilada = "^2.5.0"
