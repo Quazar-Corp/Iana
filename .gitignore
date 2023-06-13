@@ -5,4 +5,5 @@
 
 config.json
 iana.json
+encoded_jwt.txt
 .env

@@ -35,4 +35,26 @@ package body Parser is
 
       return Info;
    end Get_Email_Info;
+
+   function Get_Jwt (Filename : String) return String is
+      Content : Unbounded_String;
+      File    : File_Type;
+      Line    : String (1 .. 4096);
+   begin
+      Open (File, In_File, Filename);
+      
+      while not End_Of_File (File) loop
+         Line := Get_Line (File);
+         Append (Content, To_Unbounded_String (Line));
+      end loop;
+      
+      Close (File);
+      
+      return To_String (Content);
+   exception
+      when Name_Error =>
+         raise Name_Error with "Failed to open file: " & Filename;
+      when others =>
+         raise;
+   end Get_Jwt;
 end Parser;
