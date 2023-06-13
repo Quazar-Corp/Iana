@@ -4,6 +4,6 @@
 /config/
 
 config.json
-iana.json
+service_account.json
 encoded_jwt.txt
 .env
