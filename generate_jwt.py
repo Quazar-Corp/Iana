@@ -24,3 +24,5 @@ encoded_jwt = jwt.encode(payload, private_key, algorithm='RS256')
 
 with open('encoded_jwt.txt', 'w') as jwt_file:
     jwt_file.write(encoded_jwt)
+
+print('JWT written to encoded_jwt.txt')
