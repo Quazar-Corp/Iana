@@ -10,6 +10,14 @@ executables = ["iana"]
 [[depends-on]]
 gnatcoll = "^23.0.0"
 [[depends-on]]
+aws = "^23.0.0"
+[[depends-on]]
+curl = "^8.1.2"
+[[depends-on]]
+utilada = "^2.5.0"
+[[depends-on]]
 parser = "*"
 [[depends-on]]
 email_info = "*"
+[[depends-on]]
+service = "*"

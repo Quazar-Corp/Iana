@@ -2,3 +2,8 @@
 /bin/
 /alire/
 /config/
+
+config.json
+service_account.json
+encoded_jwt.txt
+.env
