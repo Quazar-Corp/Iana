@@ -26,3 +26,14 @@ with open('encoded_jwt.txt', 'w') as jwt_file:
     jwt_file.write(encoded_jwt)
 
 print('JWT written to encoded_jwt.txt')
+print('Updating sender email...')
+
+with open('./config.json') as cfg_json_file:
+    data = json.load(cfg_json_file)
+
+data['sender'] = iana_app_settings['client_email']
+
+with open('./config.json', 'w') as cfg_json_file:
+    json.dump(data, cfg_json_file)
+
+print('Done!')

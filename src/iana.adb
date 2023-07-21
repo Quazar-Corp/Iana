@@ -24,6 +24,8 @@ begin
 
    Authorize (Jwt, Token);
 
+   Insert_Message (Info, To_String (Token));
+
    Put_Line ("Bearer " & To_String (Token));
 
 end Iana;
