@@ -39,5 +39,39 @@ package body Service is
       end;
 
    end Authorize;
+   
+   procedure Insert_Message (Info : Email_Info_Record; Token : String) is
+      Url : constant String :=
+         "https://gmail.googleapis.com/upload/gmail/v1/users/" & (To_String (Info.Sender)) & "/messages";
+      Json : JSON_Value;
+   begin
+      Util.Http.Clients.Curl.Register;
+      declare
+         Http_Client   : Client;
+         Http_Response : Response;
+         Http_Status    : Integer;
+      begin
+         Http_Client.Add_Header
+            ("Authorization", "Bearer " & Token);
+
+         Http_Client.Add_Header
+            ("Content-Type", "application/json");
+
+         Http_Client.Post (Url,
+                           "",
+                           Http_Response);
+
+         Http_Status := Http_Response.Get_Status;
+
+         if Http_Status /= 200 then
+            Put_Line (Http_Response.Get_Body);
+         else
+            Json := Read (Http_Response.Get_Body);
+
+            Put_Line (Http_Response.Get_Body);
+         end if;
+      end;
+
+   end Insert_Message;
 
 end Service;
