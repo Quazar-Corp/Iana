@@ -4,11 +4,35 @@ with GNATCOLL.JSON;
 package Email_Info is
    use Ada.Strings.Unbounded;
    use GNATCOLL.JSON;
+   
+   type String_List is array(1..500) of Unbounded_String;
 
    type Email_Info_Record is record
       Sender      : Unbounded_String;
       Recipient   : Unbounded_String;
       Subject     : Unbounded_String;
+   end record;
+
+   type Message_Part_Header_Record is record
+      Name  : Unbounded_String;
+      Value : Unbounded_String;
+   end record;
+   
+   type Header_List is array(1..10) of Message_Part_Header_Record;
+
+   type Message_Part_Body_Record is record
+      Attachment_Id  : Unbounded_String;
+      Size           : Integer;
+      Data           : Unbounded_String;
+   end record;
+
+   type Message_Part_Record is record 
+      Part_Id      : Unbounded_String;
+      Mime_Type    : Unbounded_String;
+      Filename     : Unbounded_String;
+      Headers      : Header_List; 
+      Message_Body : Message_Part_Body_Record;
+      Parts        : String_List;
    end record;
 
    function Fill_Info (Json : JSON_Value)

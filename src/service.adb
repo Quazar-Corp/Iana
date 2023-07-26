@@ -49,16 +49,16 @@ package body Service is
       declare
          Http_Client   : Client;
          Http_Response : Response;
-         Http_Status    : Integer;
+         Http_Status   : Integer;
       begin
          Http_Client.Add_Header
             ("Authorization", "Bearer " & Token);
 
          Http_Client.Add_Header
-            ("Content-Type", "application/json");
+            ("Content-Type", "multipart/form-data");
 
          Http_Client.Post (Url,
-                           "",
+                           Form,
                            Http_Response);
 
          Http_Status := Http_Response.Get_Status;
