@@ -58,7 +58,7 @@ package body Service is
             ("Content-Type", "multipart/form-data");
 
          Http_Client.Post (Url,
-                           Form,
+                           "",
                            Http_Response);
 
          Http_Status := Http_Response.Get_Status;
