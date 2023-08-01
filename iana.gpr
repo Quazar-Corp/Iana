@@ -1,5 +1,6 @@
 with "config/iana_config.gpr";
 with "utilada_curl";
+with "utilada_sys";
 project Iana is
 
    for Source_Dirs use ("src/", "config/");

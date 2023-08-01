@@ -35,6 +35,18 @@ package Email_Info is
       Parts        : String_List;
    end record;
 
+   type Message_Record is record
+      Id            : Unbounded_String;
+      Thread_Id     : Unbounded_String;
+      Label_Ids     : String_List;
+      Snippet       : Unbounded_String;
+      History_Id    : Unbounded_String;
+      Internal_Date : Unbounded_String;
+      Payload       : Message_Part_Record;
+      Size_Estimate : Integer;
+      Raw           : Unbounded_String;
+   end record;
+
    function Fill_Info (Json : JSON_Value)
       return Email_Info_Record;
    procedure Print_Email_Info (Info : Email_Info_Record);

@@ -2,6 +2,9 @@ with Ada.Text_IO;
 with Util.Http.Clients;
 with Util.Http.Clients.Curl;
 with GNATCOLL.JSON;
+with Ada.Streams.Stream_IO;
+with Util.Streams.Files;
+with Util.Streams.Buffered.Parts;
 
 package body Service is
    use Ada.Text_IO;
@@ -41,10 +44,13 @@ package body Service is
    end Authorize;
    
    procedure Insert_Message (Info : Email_Info_Record; Token : String) is
-      Url : constant String :=
+      Url         : constant String := 
          "https://gmail.googleapis.com/upload/gmail/v1/users/" & (To_String (Info.Sender)) & "/messages";
       Json : JSON_Value;
    begin
+      --In_Stream.Open (Mode => Ada.Streams.Stream_IO.In_File, Name => "Nota Fiscal Avulsa");
+      --Part_Stream.Initialize (Input => In_Stream'Unchecked_Access, Size => 4096);
+
       Util.Http.Clients.Curl.Register;
       declare
          Http_Client   : Client;

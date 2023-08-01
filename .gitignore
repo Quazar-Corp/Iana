@@ -2,6 +2,7 @@
 /bin/
 /alire/
 /config/
+/sample/
 
 config.json
 service_account.json

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="1263" width="893">
+	<fontspec id="0" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="1" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="2" size="11" family="Helvetica" color="#000000"/>
+	<fontspec id="3" size="11" family="Helvetica" color="#000000"/>
+	<fontspec id="4" size="16" family="Helvetica" color="#000000"/>
+	<fontspec id="5" size="7" family="Helvetica" color="#000000"/>
+	<fontspec id="6" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="7" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="8" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="9" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="10" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="11" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="12" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="13" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="14" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="15" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="16" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="17" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="18" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="19" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="20" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="21" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="22" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="23" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="24" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="25" size="11" family="Helvetica" color="#000000"/>
+	<fontspec id="26" size="11" family="Helvetica" color="#000000"/>
+	<fontspec id="27" size="11" family="Helvetica" color="#000000"/>
+	<fontspec id="28" size="11" family="Helvetica" color="#000000"/>
+	<fontspec id="29" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="30" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="31" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="32" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="33" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="34" size="16" family="Helvetica" color="#000000"/>
+	<fontspec id="35" size="16" family="Helvetica" color="#000000"/>
+	<fontspec id="36" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="37" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="38" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="39" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="40" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="41" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="42" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="43" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="44" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="45" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="46" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="47" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="48" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="49" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="50" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="51" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="52" size="16" family="Helvetica" color="#000000"/>
+	<fontspec id="53" size="16" family="Helvetica" color="#000000"/>
+	<fontspec id="54" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="55" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="56" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="57" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="58" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="59" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="60" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="61" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="62" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="63" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="64" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="65" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="66" size="7" family="Helvetica" color="#000000"/>
+	<fontspec id="67" size="7" family="Helvetica" color="#000000"/>
+	<fontspec id="68" size="7" family="Helvetica" color="#000000"/>
+	<fontspec id="69" size="7" family="Helvetica" color="#000000"/>
+	<fontspec id="70" size="7" family="Helvetica" color="#000000"/>
+	<fontspec id="71" size="7" family="Helvetica" color="#000000"/>
+	<fontspec id="72" size="16" family="Helvetica" color="#000000"/>
+	<fontspec id="73" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="74" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="75" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="76" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="77" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="78" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="79" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="80" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="81" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="82" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="83" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="84" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="85" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="86" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="87" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="88" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="89" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="90" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="91" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="92" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="93" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="94" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="95" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="96" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="97" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="98" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="99" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="100" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="101" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="102" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="103" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="104" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="105" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="106" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="107" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="108" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="109" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="110" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="111" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="112" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="113" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="114" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="115" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="116" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="117" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="118" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="119" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="120" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="121" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="122" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="123" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="124" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="125" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="126" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="127" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="128" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="129" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="130" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="131" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="132" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="133" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="134" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="135" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="136" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="137" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="138" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="139" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="140" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="141" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="142" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="143" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="144" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="145" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="146" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="147" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="148" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="149" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="150" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="151" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="152" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="153" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="154" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="155" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="156" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="157" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="158" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="159" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="160" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="161" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="162" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="163" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="164" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="165" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="166" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="167" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="168" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="169" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="170" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="171" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="172" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="173" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="174" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="175" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="176" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="177" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="178" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="179" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="180" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="181" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="182" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="183" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="184" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="185" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="186" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="187" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="188" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="189" size="10" family="Helvetica" color="#000000"/>
+<text top="33" left="138" width="209" height="14" font="10">Prefeitura Municipal do Natal</text>
+<text top="60" left="138" width="252" height="14" font="13">Secretaria Municipal de Tributação</text>
+<text top="86" left="138" width="299" height="14" font="19">Nota Fiscal de Serviços Eletrônica - NFS-e</text>
+<text top="33" left="519" width="80" height="14" font="21">Nº da Nota:</text>
+<text top="35" left="696" width="79" height="14" font="1">0000000009</text>
+<text top="120" left="519" width="164" height="14" font="24">Nº da Nota Substituída:</text>
+<text top="162" left="44" width="144" height="12" font="26">Data/Hora de Emissão:</text>
+<text top="162" left="206" width="146" height="12" font="28">25/07/2023 às 14:44:50</text>
+<text top="60" left="519" width="99" height="14" font="0">Competência:</text>
+<text top="62" left="696" width="61" height="14" font="1">JUL/2023</text>
+<text top="161" left="519" width="163" height="14" font="30">Código de Verificação:</text>
+<text top="162" left="696" width="71" height="14" font="1">236008123</text>
+<text top="90" left="519" width="250" height="15" font="33">Data Prestação Serviço: 25/07/2023</text>
+<text top="182" left="352" width="190" height="17" font="35">Prestador de Serviços</text>
+<text top="210" left="198" width="77" height="14" font="0">CPF/CNPJ:</text>
+<text top="239" left="198" width="99" height="14" font="36">Razão Social:</text>
+<text top="210" left="308" width="129" height="14" font="1">46.234.825/0001-71</text>
+<text top="239" left="308" width="173" height="14" font="38">ONOFRE JURIDICO LTDA</text>
+<text top="210" left="722" width="65" height="14" font="1">224.692-6</text>
+<text top="210" left="560" width="143" height="14" font="39">Inscrição Municipal:</text>
+<text top="269" left="198" width="72" height="14" font="0">Endereço:</text>
+<text top="269" left="308" width="502" height="14" font="50">R DOUTOR LUIZ FELIPE CAMARA, 55, SALA 602 , Lagoa Nova, 59064-200</text>
+<text top="316" left="198" width="74" height="14" font="0">Município:</text>
+<text top="316" left="308" width="47" height="14" font="1">NATAL</text>
+<text top="316" left="560" width="24" height="14" font="0">UF:</text>
+<text top="316" left="637" width="21" height="14" font="1">RN</text>
+<text top="345" left="198" width="67" height="14" font="0">Telefone:</text>
+<text top="345" left="308" width="105" height="14" font="51">(84) 99633-4868</text>
+<text top="345" left="486" width="50" height="14" font="0">E-mail:</text>
+<text top="345" left="560" width="162" height="14" font="1"><A href="mailto:traraujonofre@gmail.com">traraujonofre@gmail.com</a></text>
+<text top="376" left="354" width="183" height="17" font="53">Tomador de Serviços</text>
+<text top="441" left="42" width="77" height="14" font="0">CPF/CNPJ:</text>
+<text top="411" left="42" width="145" height="14" font="54">Nome/Razão Social:</text>
+<text top="442" left="197" width="129" height="14" font="1">21.483.255/0001-22</text>
+<text top="413" left="197" width="417" height="14" font="59">DATARISK.IO SOLUÇÕES ANALÍTICAS E TECNOLOGIAS S.A</text>
+<text top="441" left="446" width="143" height="14" font="39">Inscrição Municipal:</text>
+<text top="471" left="42" width="72" height="14" font="0">Endereço:</text>
+<text top="471" left="197" width="451" height="14" font="65">AVENIDA MADRE BENVENUTA, 1313, SANTA MÔNICA, 88035-001</text>
+<text top="517" left="42" width="74" height="14" font="0">Município:</text>
+<text top="518" left="197" width="116" height="14" font="1">FLORIANOPOLIS</text>
+<text top="517" left="446" width="24" height="14" font="0">UF:</text>
+<text top="518" left="518" width="21" height="14" font="1">SC</text>
+<text top="548" left="42" width="67" height="14" font="0">Telefone:</text>
+<text top="548" left="446" width="50" height="14" font="0">E-mail:</text>
+<text top="549" left="518" width="144" height="14" font="1"><A href="mailto:financeiro@datarisk.io">financeiro@datarisk.io</a></text>
+<text top="583" left="408" width="75" height="17" font="4">Serviços</text>
+<text top="610" left="42" width="221" height="8" font="71">1.01 - ANÁLISE E DESENVOLVIMENTO DE SISTEMAS.</text>
+<text top="118" left="138" width="130" height="17" font="72">Nota Natalense</text>
+<text top="683" left="42" width="31" height="14" font="0">Item</text>
+<text top="683" left="114" width="70" height="14" font="0">Descrição</text>
+<text top="683" left="592" width="47" height="14" font="0">Quant.</text>
+<text top="683" left="654" width="86" height="14" font="73">Vlr. Unitário</text>
+<text top="683" left="766" width="79" height="14" font="74">Valor Total</text>
+<text top="701" left="46" width="7" height="11" font="6">1</text>
+<text top="701" left="601" width="37" height="11" font="6">1,0000</text>
+<text top="701" left="696" width="47" height="11" font="6">7.221,26</text>
+<text top="701" left="800" width="47" height="11" font="6">7.221,26</text>
+<text top="701" left="115" width="381" height="11" font="84">Prestação de serviço na área de tecnologia. Referência julho de 2023.</text>
+<text top="734" left="534" width="164" height="14" font="88">Valor Total da NFS-e R$:</text>
+<text top="734" left="791" width="57" height="14" font="0">7.221,26</text>
+<text top="781" left="42" width="88" height="11" font="89">Deduções (R$)</text>
+<text top="800" left="153" width="17" height="11" font="6">*,**</text>
+<text top="781" left="207" width="106" height="11" font="91">Base Cálculo (R$)</text>
+<text top="800" left="318" width="17" height="11" font="6">*,**</text>
+<text top="781" left="374" width="73" height="11" font="92">Alíquota (%)</text>
+<text top="800" left="485" width="17" height="11" font="6">*,**</text>
+<text top="781" left="542" width="101" height="11" font="95">Valor do ISS (R$)</text>
+<text top="800" left="654" width="17" height="11" font="6">*,**</text>
+<text top="781" left="702" width="138" height="11" font="97">Outras Retenções (R$)</text>
+<text top="828" left="42" width="54" height="11" font="98">INSS (R$)</text>
+<text top="828" left="207" width="53" height="11" font="99">IRPJ (R$)</text>
+<text top="828" left="374" width="59" height="11" font="100">CSLL (R$)</text>
+<text top="828" left="542" width="71" height="11" font="101">COFINS (R$)</text>
+<text top="828" left="702" width="89" height="11" font="102">PIS/PASEP (R$)</text>
+<text top="879" left="377" width="139" height="14" font="103">Outras Informações</text>
+<text top="900" left="43" width="593" height="11" font="189">Documento emitido por ME ou EPP optante pelo SIMPLES NACIONAL. Não gera direito a crédito fiscal de IPI.</text>
+</page>
+</pdf2xml>
